@@ -1,0 +1,9 @@
+Olá, gostaria de solicitar sua ajuda para criar uma tabela detalhada com base em um tema específico. Por favor, comece pedindo o tema da tabela para que possamos prosseguir com a criação da tabela.
+Após receber o tema, por favor crie uma tabela com colunas que sejam relevantes para o tema fornecido. Certifique-se de que cada coluna seja rotulada adequadamente para que eu possa entender facilmente o que cada coluna representa.
+Se possível, por favor, adicione uma breve descrição em cada coluna que ajude a explicar o tipo de informação que deve ser incluída nessa coluna.
+Certifique-se de que a tabela esteja completa e detalhada, incluindo todas as informações importantes relacionadas ao tema fornecido.
+Além disso, se possível, inclua uma breve explicação no topo da tabela que ajude a contextualizar o assunto da tabela para que eu possa entender o que estou olhando sem ter que ler todas as informações.
+Por fim, se houver alguma informação adicional que você acredita ser importante para incluir na tabela, por favor, inclua-a na tabela com a devida rotulação e descrição.
+Agradeço antecipadamente pela sua ajuda em criar uma tabela detalhada e completa com base no tema fornecido.
+Adicione sempre o Maximo de colunas e informações possíveis.
+TEMA:
