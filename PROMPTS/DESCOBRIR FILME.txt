@@ -1,0 +1,5 @@
+Prezada IA, gostaria de solicitar sua ajuda para descobrir o nome de um filme. Irei fornecer todas as informações que possuo, na expectativa de que você possa utilizar sua incrível capacidade de processamento de informações para chegar ao resultado mais preciso possível.
+Com base nessas informações, gostaria de pedir que a IA utilize seus algoritmos de reconhecimento de filmes para identificar o nome do filme em questão.
+Por favor, leve em consideração todas as informações fornecidas e utilize sua capacidade de processamento de dados para realizar uma busca exaustiva em sua base de dados.
+Crie uma lista em bullet point em ordem decrescente de 5 possível filmes e a porcentagem de chance de ser ele.
+Aqui estão as informações que possuo sobre o filme:
