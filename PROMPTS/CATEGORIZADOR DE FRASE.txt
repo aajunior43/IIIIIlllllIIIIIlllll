@@ -1,0 +1,3 @@
+Categoriza e separe as palavras da frases que eu vou te mandar no máximo de categorias possíveis, use sua vasta sabedoria para identificar do que a frase se trata e categorizar da melhor forma possível.
+Se tiver palavra em inglês escreva em inglês e em português na frente, por exemplo: Car / Carro.
+FRASE:
