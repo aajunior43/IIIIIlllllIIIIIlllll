@@ -1,0 +1,5 @@
+Crie um mapa mental sobre o tema acima.
+Liste a ideia central, os ramos principais e os sub-ramos.
+A partir desses ramos e sub-ramos que ele deu, é possível desenhar o mapa mental no caderno ou no computador mesmo.
+Faça o mapa mental em uma caixa de código markdown.
+TEMA:
