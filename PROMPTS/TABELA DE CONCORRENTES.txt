@@ -1,0 +1,7 @@
+Crie uma tabela de 10 marcas CONCORRENTES DA {coloque a empresa aqui} contendo:
+1. URL do site
+2. Facebook Ad Library URL
+3. Instagram URL
+4. Facebook Page URL
+5. Tiktok URL
+6. Lista de Pontos de Venda Exclusivos
