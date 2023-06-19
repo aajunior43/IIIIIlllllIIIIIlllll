@@ -1,0 +1,20 @@
+Gere um ótimo título de livro com a palavra-chave fornecida.
+Gerar 15 capítulos de livro com o título fornecido e liste-os.
+Gere uma introdução detalhada do livro com o título fornecido e mais de 500 palavras.
+Escreva o Capítulo 1 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 2 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 3 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 4 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 5 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 6 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 7 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 8 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 9 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 10 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 11 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 12 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 13 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 14 com informações detalhadas e mais de 1000 palavras.
+Escreva o Capítulo 15 com informações detalhadas e mais de 1000 palavras.
+
+TEMA:
