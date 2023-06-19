@@ -1,0 +1,3 @@
+Por favor, resuma o livro {insira o nome do livro aqui} de forma geral, incluindo os personagens principais e os temas abordados.
+Tente incluir uma visão geral da trama e do enredo {COM/SEM} spoiler, bem como uma análise dos personagens e suas motivações.
+Por favor, limite seu resumo a {insira o número de parágrafos desejado para o resumo aqui} parágrafos.
