@@ -1,0 +1,15 @@
+Me dê uma descrição completa sobre a planta abaixo.
+-O nome popular.
+-Nome científico.
+-Poder medicinal.
+-Pode comer? Se sim modo de preparo.
+-Modo de plantar.
+-tem Flores?
+-Descreva as flores.
+-Espectativa de vida.
+-Como identificar a planta.
+-Origem.
+-Tamanho aproximado.
+Em bullet point.
+
+PLANTA:
