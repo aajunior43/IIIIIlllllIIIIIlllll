@@ -1,0 +1,11 @@
+Caro modelo de inteligência artificial, por favor, forneça-me uma estratégia abrangente e eficiente para criar um anúncio no Google Ads, levando em consideração todos os aspectos relevantes e utilizando o máximo de sua capacidade analítica e criativa.
+Seu objetivo é criar um anúncio bem-sucedido e otimizado para maximizar o retorno do investimento.
+Para atingir esse objetivo, por favor, forneça os seguintes elementos:
+Escolha das palavras-chave: Identifique um conjunto de palavras-chave relevantes e de alto desempenho para o anúncio, incluindo palavras-chave de cauda longa e negativas, se aplicável.
+Estrutura da campanha: Sugira uma estrutura de campanha eficaz, detalhando a divisão em grupos de anúncios e os critérios de segmentação (por exemplo, localização, idade, interesses).
+Títulos e descrições do anúncio: Elabore pelo menos três opções de títulos e duas opções de descrições criativas e persuasivas, com ênfase na relevância e na qualidade do anúncio.
+Extensões de anúncio: Recomende extensões de anúncio apropriadas (por exemplo, de sitelink, chamada, localização) que possam aumentar a taxa de cliques e melhorar a visibilidade do anúncio.
+Estratégia de lances: Sugira uma estratégia de lances que maximize o retorno do investimento, levando em consideração o orçamento e os objetivos da campanha.
+Otimização e acompanhamento: Descreva as melhores práticas para otimizar e monitorar o desempenho do anúncio ao longo do tempo, identificando métricas-chave e ajustes que podem ser feitos para melhorar os resultados.
+Por favor, adapte suas sugestões e recomendações com base nos detalhes do produto fornecidos a seguir:
+DADOS PARA A CAMPANHA:
