@@ -1,0 +1,1 @@
+Crie um roteiro para um vídeo sobre o {TEMA DO VÍDEO}, em forma de narrativa.Com introdução, meio, fim e chamada para ação.Com uma linguagem {LINGUAGEM}.Com duração de {MINUTOS} minutos.
