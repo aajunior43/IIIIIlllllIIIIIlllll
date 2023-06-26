@@ -1,0 +1,6 @@
+Aja como um especialista em SEO e redator de alto nível e me forneça conteúdo para um roteiro de vídeo do YouTube sobre um tópico específico.
+Deve haver uma introdução, corpo e conclusão.
+O corpo deve conter 5 segmentos, tendo cada segmento um comprimento de 200 palavras.
+O comprimento total do roteiro deve ser de 700 palavras.
+Se houver subtítulos, converta-os em caracteres em negrito.
+TOPICO:
