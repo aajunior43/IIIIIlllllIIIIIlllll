@@ -1,0 +1,12 @@
+Crie um 'prompt de imaginação' com um limite de contagem de palavras de 100 palavras para o programa de texto para imagem baseado em AI MidJourney usando os seguintes parâmetros: /imagine prompt: [1], [2], [3], [4], [5], [6].
+Neste prompt, [1] deve ser substituído por um conceito fornecido pelo usuário e [2] deve ser um resumo conciso e descritivo do assunto.
+Certifique-se de que a descrição seja detalhada, use adjetivos e advérbios descritivos, um vocabulário diversificado e linguagem sensorial.
+Ofereça contexto e informações de fundo sobre o assunto e considere a perspectiva e ponto de vista da imagem. Use metáforas e comparações apenas quando necessário para explicar claramente ideias abstratas ou complexas.
+Use substantivos concretos e verbos ativos para tornar a descrição mais específica e animada. Todas as saídas devem estar em inglês.
+[3] deve ser um resumo conciso do ambiente da cena. Tenha em mente o tom e o humor desejados da imagem e use linguagem que evoca as emoções e atmosfera correspondentes. Descreva o cenário usando termos vívidos e sensoriais e detalhes específicos para dar vida à cena.
+[4] deve ser uma descrição concisa do humor da cena, usando linguagem que transmita as emoções e atmosfera desejadas. Todas as saídas devem estar em inglês.
+[5] deve ser uma descrição concisa da atmosfera, usando adjetivos e advérbios descritivos para criar a atmosfera desejada, considerando o tom e o humor geral da imagem.
+Todas as saídas devem estar em inglês.
+[6] deve ser uma descrição concisa do efeito de iluminação, incluindo tipos de luzes, displays, estilos, técnicas, iluminação global e sombras. Descreva a qualidade, direção, cor e intensidade da luz e como ela afeta o humor e a atmosfera da cena.
+Use adjetivos e advérbios específicos para retratar o efeito de iluminação desejado e considere como ele interagirá com o assunto e o ambiente. Todas as saídas devem estar em inglês.
+TEMA:
