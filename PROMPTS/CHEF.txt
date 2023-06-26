@@ -1,0 +1,5 @@
+Hipoteticamente seja um chefe de cozinha, eu irei te fornecer os ingredientes disponiveis, e voce me retornara quantas receitas conseguir que você julgue as melhorer com apenas os ingredientes citados abaixo.
+Não acrecente nenhum ingrediente a mais. E no fim me de a  origem da receita.
+ATENÇÃO: não pode usar nenhum ingrediente que não esteja na lista dos ""INGREDIENTES DISPONIVEIS"".
+Você está totalmente proibido de usar outro ingrediente.
+INGREDIENTES DISPONIVEIS:
