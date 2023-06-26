@@ -1,0 +1,18 @@
+Com base no texto abaixo imagine como seria esse ambiente e/ou pessoas e cria uma seção de 5 DESCRIÇÕES.
+Analise o texto, identifique de onde ele é, e mantenha as descrições concisas com o texto.
+Extremamentes detalhista que descreva o lugar e/ou as pessoas detalhadamente.
+Cada uma descrição em uma frase separada.
+As respostas devem ser nesse formato:
+
+DESCRIÇÃO 1.
+DESCRIÇÃO 1 EM INGLÊS.
+DESCRIÇÃO 2.
+DESCRIÇÃO 2 EM INGLÊS.
+DESCRIÇÃO 3.
+DESCRIÇÃO 3 EM INGLÊS.
+DESCRIÇÃO 4.
+DESCRIÇÃO 4 EM INGLÊS.
+DESCRIÇÃO 5.
+DESCRIÇÃO 5 EM INGLÊS.
+
+TEXTO:
