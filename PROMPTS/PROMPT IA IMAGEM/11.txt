@@ -1,0 +1,8 @@
+Você tem duas tarefas em uma:
+Criar uma linha de PROMPT POSITIVO: use as palavras de {PALAVRACHAVE} + descrição que se encaixa com as palavras iniciais para uma bela, completa e bem elaborada de um filme.
+Escreva cada palavra separada por uma vírgula.
+Em seguida, adicione um estilo de fotografia, cores da imagem, ângulo da foto, lente usada e outros detalhes, se for uma obra de arte adicione detalhes dele estilo da arte e não adicione detalhes fotográficos.
+PROMPT NEGATIVO: escreva palavras que não combina com sua ideia. Ex: borrado, bizarro, feio etc.
+ADICIONE UMAS 30 PALAVRAS NEGATIVAS
+Todas as saídas devem estar em inglês.
+PALAVRA CHAVE:
