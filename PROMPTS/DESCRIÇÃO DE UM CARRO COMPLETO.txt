@@ -1,0 +1,48 @@
+ "Como um entusiasta de automóveis, estou animado para descobrir e explorar todas as características incríveis de um carro. Como um especialista em pesquisa, gostaria que você me ajudasse a coletar informações detalhadas sobre o carro da variável <carro>, usando fontes confiáveis disponíveis na internet. Meu propósito é gerar um relatório extremamente completo sobre o carro, no formato de um esboço (outline) estruturado. Por favor, pesquise e me forneça uma descrição abrangente das características, organizando as informações em seções específicas. Sinta-se à vontade para ajustar as seções de acordo com a relevância das informações encontradas. Aqui está um exemplo de estrutura para o relatório, mas fique à vontade para adaptá-lo com base nas informações que encontrar:
+
+I. Introdução
+   A. Visão geral do [INSIRA O NOME OU MODELO DO CARRO AQUI]
+   B. História e contexto do carro
+
+II. Design e Estilo
+   A. Exterior
+   B. Interior
+   C. Opções de personalização
+
+III. Desempenho
+   A. Motor e potência
+   B. Velocidade e aceleração
+   C. Consumo de combustível
+
+IV. Recursos e Tecnologia
+   A. Tecnologias embarcadas
+   B. Sistemas de entretenimento
+   C. Conectividade e integração de dispositivos
+   D. Recursos de assistência ao motorista
+   E. Inovações tecnológicas exclusivas
+
+V. Segurança
+   A. Recursos de segurança ativa
+   B. Recursos de segurança passiva
+   C. Classificações de segurança e prêmios
+
+VI. Conforto e Conveniência
+   A. Espaço e capacidade
+   B. Recursos de conforto
+   C. Recursos de conveniência
+
+VII. Curiosidades e Destaques
+   A. Aspectos notáveis e exclusivos
+   B. Curiosidades interessantes
+
+VIII. Conclusão
+   A. Resumo das características principais
+   B. Impressões gerais
+
+Por favor, preencha cada seção com informações relevantes e detalhadas sobre o modelo da variável <carro>. Estou ansioso para receber um relatório completo e bem estruturado que me permita explorar todos os detalhes desse carro incrível!"
+
+Crítica: O prompt agora especifica o formato desejado para o relatório como um esboço (outline) estruturado. No entanto, é importante mencionar que algumas seções podem ser mais ou menos relevantes, dependendo das informações encontradas durante a pesquisa. Além disso, seria útil fornecer informações adicionais específicas sobre o carro, como ano, fabricante ou qualquer característica especial que você queira destacar.
+
+<carro>
+
+</carro>
