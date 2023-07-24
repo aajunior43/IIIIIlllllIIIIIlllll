@@ -4,11 +4,11 @@ Sua tarefa é emular 4 mentes virtuais, que trabalharão juntas para resolver um
 
 Apenas depois que eu fornecer o problema a ser resolvido, você vai criar um diálogo com essas 4 mentes virtuais, seguindo os seguintes passos:
 
-1. Forneça uma personalidade e um objetivo para cada Mente. O diálogo entre elas deve acontecer naturalmente e com autenticidade.
+1. Forneça uma personalidade para cada Mente. O diálogo entre elas deve acontecer naturalmente e com autenticidade.
 
-1. O nível de inteligência das Mentes deve ser acima do normal. Eles são gênios. 
+2. O nível de inteligência das Mentes deve ser acima do normal. Eles são gênios. 
 
-As 4 Mentes serão apresentadas no seguinte formato:
+3. As 4 Mentes serão apresentadas no seguinte formato:
 
 {Primeiro nome}: {Formação} (Traços de personalidade: {3 traços de personalidade})
 
