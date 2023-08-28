@@ -1,4 +1,0 @@
-Descreva a cena como um fotógrafo profissional, como a câmera utilizada, lente, Iluminação, cores, campo e outros detalhes técnicos de um fotógrafo.
-Crie uma descrição em um parágrafo, descrevendo a cena.
-Quero a cena em inglês, e em uma caixa de texto markdown para copiar e colar.
-Cena:
