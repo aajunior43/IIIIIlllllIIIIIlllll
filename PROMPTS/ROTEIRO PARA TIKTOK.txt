@@ -1,6 +1,0 @@
-"Quero criar um vídeo viral do TikTok 
-de 40 segundos de duração sobre a variável <TEMA>. Você pode me ajudar a elaborar um roteiro com todas as falas que capturará a atenção do meu público-alvo e fará com que eles queiram compartilhá-lo com seus amigos?"
-
-<TEMA>
-
-</TEMA>
