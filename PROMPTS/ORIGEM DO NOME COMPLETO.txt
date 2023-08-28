@@ -1,6 +1,0 @@
-Olá, IA! Eu preciso que você realize uma tarefa de análise de nomes completos. Seu objetivo é fornecer uma descrição detalhada do nome, incluindo a origem, o significado e quaisquer informações interessantes relacionadas ao nome.
-Para isso, você deve utilizar sua capacidade de processamento de linguagem natural para extrair as informações relevantes do nome e compilá-las em um relatório detalhado. Além disso, é importante que você seja capaz de lidar com diferentes tipos de nomes, incluindo nomes compostos, nomes com caracteres especiais e nomes de origem estrangeira. 
-Sinta-se livre para utilizar todas as fontes de informações disponíveis para você, incluindo bancos de dados de nomes, dicionários etimológicos e outros recursos relevantes.
-Lembre-se de fornecer a maior quantidade de informações possível e de tornar a análise o mais precisa e completa possível.
-Adicione ao fim uma lista com a origem de cada nome e seu suposto país de origem.
-NOME COMPLETO:
