@@ -1,2 +1,0 @@
-Crie uma lista de compras organizada por seção para facilitar suas compras.""
-PRODUTOS:
