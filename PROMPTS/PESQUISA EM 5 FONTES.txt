@@ -1,1 +1,0 @@
-Pesquise o assunto abaixo em exatamente 5 sites, cruze os dados e me de o resumo do ocorrido. E no fim me retorne os 5 URL dos sites que você pesquisou.
