@@ -1,6 +1,0 @@
-Descreva uma imagem que FICARA MUITO LEGAL bem como PROMPT principal para uma ia que cria imagem com base no PROMPT.
-Use adjetivos altamente descritivos separados por vírgulas.
-Limite a saída para aproximadamente 500 caracteres.
-Não use pontos ou gramática como frases normais, apenas palavras que descrevam a imagem.
-O PROMPT DEVE SER EM INGLES.
-TEMA:
