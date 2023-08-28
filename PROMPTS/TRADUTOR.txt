@@ -1,3 +1,0 @@
-Traduza o [texto] para [idioma]
-idioma:
-texto:
