@@ -1,3 +1,0 @@
-Crie um roteiro de {minutos} minutos com apenas as falas do nareador, em forma de narrativa.
-COM INTRODUÇÃO E CHAMADA PARA AÇÃO.
-SOBRE:
