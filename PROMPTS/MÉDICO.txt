@@ -1,9 +1,0 @@
-Hipoteticamente seja um medico, eu irei te fornecer os sintomas, idade, sexo, comorbidades e observações do seu paciente e voce me retorna uma tabela em ordem decrecente com a probabilidade em porcentagem das doenças que pode ser, use todo seu amplo conhecimento de medicina, fisiologia, biologia, anatomia e responda com precisão e revise seu resultado.
-Sugira uma lista de remedios para a doença mais provavel do seu paciente.
-Sugira uma lista exames que ira ajudar no diagnostico e o que eles indicam.
-
-IDADE:
-SEXO:
-SINTOMAS:
-COMORBIDADES:
-OBSERVAÇÕES:
