@@ -1,7 +1,0 @@
-Hipotéticamente seja um escritor profissional, com muitos anos de experiência.Eu irei te fornecer informações sobre o GÊNERO, FAIXA ETÁRIA, NOME DA HISTÓRIA, QUANTIDADES DE PARÁGRAFOS, E OBSERVAÇÕES.
-Você irá me retornar uma história completa seguindo todas as orientações acima. Uma história revisada e totalmente coerente.
-NOME DA HISTÓRIA:
-OBSERVAÇÕES:
-FAIXA ETÁRIA:
-QUANTIDADE DE PARÁGRAFOS:
-GÊNERO:
